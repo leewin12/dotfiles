@@ -1,0 +1,20 @@
+[alias]
+        ss = status
+        co = checkout
+        l = log
+        b = branch
+        cm = commit
+        cmd = commit --amend
+        f = fetch -a -p
+        lg = log --graph --all
+        pr = pull --rebase
+        p = push origin
+[user]
+        email = leewin12@gmail.com
+        name = greg.lee
+[core]
+        editor = vim
+        autocrlf = input
+[auto]
+        crlf = input
+
